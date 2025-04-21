@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: white;
+    text-align: center;
+    text-shadow: yellow;
+}
+
+li {
+    width: 50%;
+}
+
+strong {
+    color: tomato;
+    text-decoration: underline;
+    text-shadow: blue;
+}
